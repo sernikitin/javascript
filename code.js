@@ -1,8 +1,17 @@
 var wordList =        
-    [
-        "trigonon",
-        
-    ];
+[
+    "trigonon",
+    "trihemitetartemorion",
+    "overcool",
+    "overcontrol",
+    "overcontented",
+    "fathearted",
+    "fatelike",
+    "fatigated",
+    "blick",
+    "blamable",
+    "billian",
+];
 const maxTries = 5;
 var guessedLetters = [];
 var currentWordIndex;
